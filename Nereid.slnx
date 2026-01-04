@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Nereid/Nereid.vcxproj" />
+  <Project Path="Nereid/Nereid.vcxproj" Id="221a6367-84ca-42f1-a8d3-c60dfae789a5" />
 </Solution>
