@@ -24,11 +24,14 @@
     <ClCompile Include="HeaderUnitls.h">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.ixx">
+    <ClCompile Include="module\utils.ixx">
       <Filter>module</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="src\utils.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="module\list.ixx">
+      <Filter>module</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,8 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="test.cpp" />
-    <ClCompile Include="test.ixx" />
+    <ClCompile Include="module\list.ixx" />
+    <ClCompile Include="src\utils.cpp" />
+    <ClCompile Include="module\utils.ixx" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HeaderUnitls.h">
